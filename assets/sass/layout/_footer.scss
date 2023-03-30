@@ -1,6 +1,9 @@
-// footer{
-//     @include size(100%,120px);
-//     @include displayFlex(center);
-//     background-color: #fafafa;
-//     color: $colorWhite;
-// }
+footer {
+  width: 100%;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+  color: rgb(163, 154, 154);
+}
